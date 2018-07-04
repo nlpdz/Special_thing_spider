@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HelloDjango/.idea/HelloDjango.iml" filepath="$PROJECT_DIR$/../HelloDjango/.idea/HelloDjango.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Special_thing_spider.iml" filepath="$PROJECT_DIR$/.idea/Special_thing_spider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../changeName/.idea/changeName.iml" filepath="$PROJECT_DIR$/../changeName/.idea/changeName.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mysql2json/.idea/mysql2json.iml" filepath="$PROJECT_DIR$/../mysql2json/.idea/mysql2json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wangyi_spider/wyyt_spider_house/.idea/wyyt_spider_house.iml" filepath="$PROJECT_DIR$/../wangyi_spider/wyyt_spider_house/.idea/wyyt_spider_house.iml" />
+    </modules>
+  </component>
+</project>
